@@ -1,4 +1,4 @@
-# JavaStudyNote - JavaInterviewQuestions test
+# JavaStudyNote - JavaInterviewQuestions
 
 #### List any five features of Java?
 * Object Oriented
